@@ -39,5 +39,4 @@ Column headers are interactive. We should change the sort order by a single clic
 5. Side panel closes. (Depending on usage frequency, the panel can either stay open for several entries or close automatically to save space.)
 6. User Table automatically refreshes and displays the new user.
 
----
 **Tunahan Gökgöz** [tunagokgoz19@gmail.com](mailto:tunagokgoz19@gmail.com)
